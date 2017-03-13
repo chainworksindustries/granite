@@ -1,0 +1,9 @@
+Building granite.
+
+See doc/readme-qt.rst for instructions on building granite-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of granite.
+
+See doc/build-*.txt for instructions on building granited,
+the intended-for-services, no-graphical-interface, reference
+implementation of granite.

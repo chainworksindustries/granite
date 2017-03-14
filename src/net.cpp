@@ -1217,13 +1217,58 @@ static const char *strMainNetDNSSeed[][2] = {
 	{"grn-seed23.chainworksindustries.com", "grn-seed23.chainworksindustries.com"},
 	{"grn-seed24.chainworksindustries.com", "grn-seed24.chainworksindustries.com"},
 	{"grn-seed25.chainworksindustries.com", "grn-seed25.chainworksindustries.com"},
-    {NULL, NULL}
+	{"grn-seed26.chainworksindustries.com", "grn-seed26.chainworksindustries.com"},
+	{"grn-seed27.chainworksindustries.com", "grn-seed27.chainworksindustries.com"},
+	{"grn-seed28.chainworksindustries.com", "grn-seed28.chainworksindustries.com"},
+	{"grn-seed29.chainworksindustries.com", "grn-seed29.chainworksindustries.com"},
+	{"grn-seed30.chainworksindustries.com", "grn-seed30.chainworksindustries.com"},
+	{"grn-seed31.chainworksindustries.com", "grn-seed31.chainworksindustries.com"},
+	{"grn-seed32.chainworksindustries.com", "grn-seed32.chainworksindustries.com"},
+	{"grn-seed33.chainworksindustries.com", "grn-seed33.chainworksindustries.com"},
+	{"grn-seed34.chainworksindustries.com", "grn-seed34.chainworksindustries.com"},
+	{"grn-seed35.chainworksindustries.com", "grn-seed35.chainworksindustries.com"},
+	{"grn-seed36.chainworksindustries.com", "grn-seed36.chainworksindustries.com"},
+	{"grn-seed37.chainworksindustries.com", "grn-seed37.chainworksindustries.com"},
+	{"grn-seed38.chainworksindustries.com", "grn-seed38.chainworksindustries.com"},
+	{"grn-seed39.chainworksindustries.com", "grn-seed39.chainworksindustries.com"},
+	{"grn-seed40.chainworksindustries.com", "grn-seed40.chainworksindustries.com"},
+	{"grn-seed41.chainworksindustries.com", "grn-seed41.chainworksindustries.com"},
+	{"grn-seed42.chainworksindustries.com", "grn-seed42.chainworksindustries.com"},
+	{"grn-seed43.chainworksindustries.com", "grn-seed43.chainworksindustries.com"},
+	{"grn-seed44.chainworksindustries.com", "grn-seed44.chainworksindustries.com"},
+	{"grn-seed45.chainworksindustries.com", "grn-seed45.chainworksindustries.com"},
+	{"grn-seed46.chainworksindustries.com", "grn-seed46.chainworksindustries.com"},
+	{"grn-seed47.chainworksindustries.com", "grn-seed47.chainworksindustries.com"},
+	{"grn-seed48.chainworksindustries.com", "grn-seed48.chainworksindustries.com"},
+	{"grn-seed49.chainworksindustries.com", "grn-seed49.chainworksindustries.com"},
+	{"grn-seed50.chainworksindustries.com", "grn-seed50.chainworksindustries.com"},
+	{"grn-seed51.chainworksindustries.com", "grn-seed51.chainworksindustries.com"},
+	{"grn-seed52.chainworksindustries.com", "grn-seed52.chainworksindustries.com"},
+	{"grn-seed53.chainworksindustries.com", "grn-seed53.chainworksindustries.com"},
+	{"grn-seed54.chainworksindustries.com", "grn-seed54.chainworksindustries.com"},
+	{"grn-seed55.chainworksindustries.com", "grn-seed55.chainworksindustries.com"},
+	{"grn-seed56.chainworksindustries.com", "grn-seed56.chainworksindustries.com"},
+	{"grn-seed57.chainworksindustries.com", "grn-seed57.chainworksindustries.com"},
+	{"grn-seed58.chainworksindustries.com", "grn-seed58.chainworksindustries.com"},
+	{"grn-seed59.chainworksindustries.com", "grn-seed59.chainworksindustries.com"},
+	{"grn-seed60.chainworksindustries.com", "grn-seed60.chainworksindustries.com"},
+	{"grn-seed61.chainworksindustries.com", "grn-seed61.chainworksindustries.com"},
+	{"grn-seed62.chainworksindustries.com", "grn-seed62.chainworksindustries.com"},
+	{"grn-seed63.chainworksindustries.com", "grn-seed63.chainworksindustries.com"},
+	{"grn-seed64.chainworksindustries.com", "grn-seed64.chainworksindustries.com"},
+	{"grn-seed65.chainworksindustries.com", "grn-seed65.chainworksindustries.com"},
+	{"grn-seed66.chainworksindustries.com", "grn-seed66.chainworksindustries.com"},
+	{"grn-seed67.chainworksindustries.com", "grn-seed67.chainworksindustries.com"},
+	{"grn-seed68.chainworksindustries.com", "grn-seed68.chainworksindustries.com"},
+	{"grn-seed69.chainworksindustries.com", "grn-seed69.chainworksindustries.com"},
+	{"grn-seed70.chainworksindustries.com", "grn-seed70.chainworksindustries.com"},
+	{NULL, NULL}
 
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {"grn-testseed01.chainworksindustries.com", "grn-testseed01.chainworksindustries.com"},
-    {NULL, NULL}
+	{"grn-testseed01.chainworksindustries.com", "grn-testseed01.chainworksindustries.com"},
+	{NULL, NULL}
 };
 
 void ThreadDNSAddressSeed()

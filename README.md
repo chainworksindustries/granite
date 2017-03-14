@@ -1,12 +1,12 @@
 granite [X11]
 ================================
 
-Copyright (c) 2014 , 2015 , 2016 granite Developers
+Copyright (c) 2014, 2015, 2016, 2017 granite Developers
 
 What is granite [GRN]?
 ----------------
 
-granite is a crypto-currency that is using the X11 Algorithm for energy efficient, CPU and GPU mining utilizing Digishield block difficulty retargeting.
+granite is a crypto-currency that is using the X11 Algorithm for energy efficient, CPU, GPU and ASIC mining utilizing Digishield block difficulty retargeting.
 
  - 2 minute block targets
  - 65 million total coins
@@ -16,15 +16,16 @@ granite is a crypto-currency that is using the X11 Algorithm for energy efficien
 
 v1.3.0.0 Release
 
+
 License
 -------
 
 granite is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
+
 Ports:
 -------
 
 Main Port : 21777 , Testnet 22777
-
 RCP Port : 21776 , Testnet 22776
